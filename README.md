@@ -29,9 +29,11 @@
 
 ## 🚀 使用方法
 
-### 1️⃣ 安装依赖以及启动
+### 1️⃣ 安装依赖
 
 ```bash
 pip install matplotlib qrcode python-dotenv tk tkcalendar requests
-
+```
+### 2️⃣ 运行程序
+```bash
 python auto_billing.py

@@ -2,8 +2,6 @@
 
 一个基于 Python 和 Tkinter 的桌面记账应用，支持支出录入、历史记录查看、图表可视化与 GitHub 云端同步分享。适合日常财务管理和学习实践使用。
 
-![screenshot](https://your-image-link-if-uploaded.png)
-
 ---
 
 ## ✨ 功能特色
